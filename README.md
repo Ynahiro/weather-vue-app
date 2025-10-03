@@ -1,3 +1,7 @@
+# weather-vue-app
+
+My educational vue app
+
 ## Компоненты
 
 - Кнопка
@@ -10,7 +14,3 @@
 * Значки погоды
 * Левая панель
 * Выбор города
-
-# weather-vue-app
-
-My educational vue app
